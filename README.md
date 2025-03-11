@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 🔭 My research interests are centered around *AI4Science*, with a focus on applying AI to CFD and Earth Sciences. Separately, I'm also exploring *Embodied AI*. 
 - 🌱 In my free time, I'm exploring the world of *film theory*.
 - 📫 I'd love to connect! You can reach me at: [hanlinkong@foxmail.com](mailto:hanlinkong@foxmail.com).
+- 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
