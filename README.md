@@ -21,4 +21,19 @@ Here are some ideas to get you started:
 - 📫 I'd love to connect! You can reach me at: [hanlinkong@foxmail.com](mailto:hanlinkong@foxmail.com).
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   1 hr 16 mins        ████████████████████████░   96.19 % 
+CSV                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+
+💻 Operating System: 
+Linux                    1 hr 19 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 2025-03-11 14:38:58 UTC
 <!--END_SECTION:waka-->
