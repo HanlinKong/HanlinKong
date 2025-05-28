@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 😄 I'm currently pursuing a Software Engineering degree at the *University of Electronic Science and Technology of China (UESTC)*.
 - 🎓 I'll be joining *Zhejiang University (ZJU)* and *Shanghai Innovation Institute (SII)* as a Computer Science Ph.D. candidate in the fall.
-- 🔭 My research interests are centered around *AI4Science*, with a focus on applying AI to CFD and Earth Sciences. Separately, I'm also exploring *Embodied AI*. 
+- 🔭 My research interests are centered around *AI4Science* and *Embodied AI*. 
 - 🌱 In my free time, I'm exploring the world of *film theory*.
 - 📫 I'd love to connect! You can reach me at: [hanlinkong@foxmail.com](mailto:hanlinkong@foxmail.com).
 
