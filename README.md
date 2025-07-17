@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 I'm currently pursuing a Software Engineering degree at the *University of Electronic Science and Technology of China (UESTC)*.
-- 🎓 I'll be joining *Zhejiang University (ZJU)* and *Shanghai Innovation Institute (SII)* as a Computer Science Ph.D. candidate in the fall.
+- 🎓 I am an incoming Cpmputer Science Ph.D student at *Zhejiang University (ZJU)* and *Shanghai Innovation Institute (SII)* in 2025 fall. Before that, I pursued a Software Enginnering degree at the *University of Electronic Science and Technology of China (UESTC)*.
 - 🔭 My research interests are centered around *AI4Science* and *Embodied AI*. 
 - 🌱 In my free time, I'm exploring the world of *film theory*.
-- 📫 I'd love to connect! You can reach me at: [hanlinkong@foxmail.com](mailto:hanlinkong@foxmail.com).
+- 📫 I'd love to connect! You can reach me at: [hanlin.kong@zju.edu.cn](mailto:hanlin.kong@zju.edu.cn).
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
