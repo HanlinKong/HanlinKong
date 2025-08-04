@@ -26,12 +26,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   8 mins              ███████████████████████░░   90.67 % 
+CSV                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2025-08-04 10:20:59 UTC
+ Last Updated on 2025-08-04 22:18:02 UTC
 <!--END_SECTION:waka-->
