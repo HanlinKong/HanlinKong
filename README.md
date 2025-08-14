@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🌱 In my free time, I'm exploring the world of *film theory*.
 - 📫 I'd love to connect! You can reach me at: [hanlin.kong@zju.edu.cn](mailto:hanlin.kong@zju.edu.cn).
 
+<!--
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -35,3 +36,4 @@ No Activity Tracked This Week
 
  Last Updated on 2025-08-13 22:16:48 UTC
 <!--END_SECTION:waka-->
+-->
