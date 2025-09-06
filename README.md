@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎓 I am an incoming Cpmputer Science Ph.D student at *Zhejiang University (ZJU)* and *Shanghai Innovation Institute (SII)* in 2025 fall. Before that, I pursued a Software Enginnering degree at the *University of Electronic Science and Technology of China (UESTC)*.
+- 🎓 I am a computer science Ph.D candidate at *Zhejiang University (ZJU)* and *Shanghai Innovation Institute (SII)* in 2025 fall. Before that, I pursued a Software Enginnering degree at the *University of Electronic Science and Technology of China (UESTC)*. SII is an institution dedicated to innovation in education and research in the field of AI.
 - 🔭 My research interests are centered around *AI4Science* and *Embodied AI*. 
 - 🌱 In my free time, I'm exploring the world of *film theory*.
 - 📫 I'd love to connect! You can reach me at: [hanlin.kong@zju.edu.cn](mailto:hanlin.kong@zju.edu.cn).
