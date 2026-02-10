@@ -1,6 +1,6 @@
-### Hi there! It is Hanlin kong👋
+<!--### Hi there! It is Hanlin kong👋
 
-<!--
+
 **MikeGoblin/MikeGoblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 🎓 I am a computer science Ph.D candidate at *Zhejiang University (ZJU)* and *Shanghai Innovation Institute (SII)*. Before that, I pursued a Software Enginnering degree at the *University of Electronic Science and Technology of China (UESTC)*. 
 - 🔭 My research interests are centered around *AI4Science* and *Embodied AI*. 
 - 🌱 In my free time, I'm exploring the world of *film theory*.
 - 📫 I'd love to connect! You can reach me at: [hanlin.kong@zju.edu.cn](mailto:hanlin.kong@zju.edu.cn).
+-->
